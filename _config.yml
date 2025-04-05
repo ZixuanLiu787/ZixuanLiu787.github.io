@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Zixuan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor of Information Technologydebar at Queensland University of Technology(QUT)"
-  location         : "Brisbane, Australia"
+  bio              : "Bachelor of Information Technology at Queensland University of Technology(QUT)"
+  location         : "QUT, Brisbane, Australia"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "z80.liu@connect.qut.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
